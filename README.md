@@ -10,7 +10,7 @@ pkg install python
 pkg install python2
 pkg install git
 rm -rf OLD-CLONE
-git clone https://github.com/farabi143/OLD-CLONE
+git clone https://github.com/shuvoanindo/OLD-CLONE
 cd OLD-CLONE
 python OLD-CLONE.py
 ```
